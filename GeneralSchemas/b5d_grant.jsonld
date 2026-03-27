@@ -1,0 +1,18 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MonetaryGrant",
+  "@id": "",
+  "name": "Grant Agreement No. 101059915 (BIOcean5D)",
+  "identifier": [
+    "101059915"
+  ],
+  "funder": {
+    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld",
+    "@type": "Organization",
+    "name": "European Union"
+  },
+  "amount": {
+    "currency": "EUR",
+    "value": "15449902.50 "
+  }
+}
