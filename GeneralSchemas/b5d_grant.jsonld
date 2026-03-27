@@ -4,12 +4,25 @@
   "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/b5d_grant.jsonld",
   "name": "Grant Agreement No. 101059915 (BIOcean5D)",
   "identifier": [
-    "101059915"
+    {
+      "@type": "PropertyValue",
+      "name": "European Commission Horizon Grant Number",
+      "disambiguatingDescription": "Cordis does not clearly distinguish between the project PID and the grant number.",
+      "propertyID": "ICA:id",
+      "value": "101059915"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "The Digital Object Identifier System is for identifying content objects in the digital environment.",
+      "alternateName": "DOI",
+      "disambiguatingDescription": "Cordis does not clearly distinguish between the project PID and the grant number.",
+      "propertyID": "https://registry.identifiers.org/registry/doi",
+      "url": "https://doi.org/10.3030/101059915",
+      "value": "10.3030/101059915"
+    }
   ],
   "funder": {
-    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld",
-    "@type": "Organization",
-    "name": "European Union"
+    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld"
   },
   "amount": {
     "currency": "EUR",
