@@ -21,7 +21,7 @@
     "Biodiversity data integration",
     "Marine exposome",
     "Marine biodiversity valuing",
-    " virology",
+    "virology",
     "ecosystems",
     "mammalogy",
     "genomes",
@@ -31,13 +31,13 @@
   "contactPoint": [
     {
       "@type": "ContactPoint",
-      "contactType": "PR",
+      "contactType": "Social Media",
       "name": " LinkedIn",
       "url": "https://www.linkedin.com/company/biocean5d/"
     },
     {
       "@type": "ContactPoint",
-      "contactType": "PR",
+      "contactType": "Social Media",
       "name": "X (Formerly Twitter)",
       "url": "https://x.com/biocean5"
     }
@@ -46,12 +46,10 @@
     "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/b5d_grant.jsonld"
   },
   "funder": {
-    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld",
-    "@type": "Organization",
-    "name": "European Union"
+    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld"
   },
   "foundingDate": "2022-12-01",
-  "dissolutionDate": "2026-11-30",
+  "dissolutionDate": "2027-05-31",
   "subjectOf": {
     "@type": "DataDownload",
     "name": "Official BIOcean5D metadata from the EU CORDIS portal",
