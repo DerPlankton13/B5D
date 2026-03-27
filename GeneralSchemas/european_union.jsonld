@@ -1,0 +1,23 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@id": "",
+  "@type": "Organization",
+  "additionalType": "FundingAgency",
+  "name": "European Union",
+  "alternateName": "EU",
+  "url": "https://european-union.europa.eu/",
+  "description": "https://european-union.europa.eu/principles-countries-history/facts-and-figures-european-union_en",
+  "keywords": [
+    "supranational entity",
+    "geopolitical entity",
+    "intergovernmental entity",
+    "parliamentary confederation"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "url": "https://european-union.europa.eu/contact-eu/write-us_en",
+    "telephone": "0080067891011"
+  }
+}
