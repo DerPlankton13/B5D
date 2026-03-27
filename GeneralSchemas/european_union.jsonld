@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://schema.org/"
   },
-  "@id": "",
+  "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld",
   "@type": "Organization",
   "additionalType": "FundingAgency",
   "name": "European Union",
