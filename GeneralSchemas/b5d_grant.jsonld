@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "MonetaryGrant",
-  "@id": "",
+  "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/b5d_grant.jsonld",
   "name": "Grant Agreement No. 101059915 (BIOcean5D)",
   "identifier": [
     "101059915"
