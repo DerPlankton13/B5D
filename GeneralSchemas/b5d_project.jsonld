@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@id": "",
+  "@type": "ResearchProject",
+  "name": "Marine Biodiversity Assessment and Prediction Across Spatial, Temporal and Human Scales",
+  "alternateName": "BIOcean5D",
+  "identifier": "https://doi.org/10.3030/101059915",
+  "url": "https://biocean5d.org/",
+  "description": "Marine biodiversity sustains ecosystem services for planetary and human health. Recent surveys of marine ecosystems have unveiled our ignorance of the richness and functioning of marine life, which is changing in the Anthropocene at a faster pace than terrestrial life.\nBIOcean5D unites major European centers in molecular/cell biology (EMBL), marine biology (EMBRC), and sequencing (Genoscope), together with 26 partners from 11 countries, to build a unique suite of technologies, protocols, and models allowing holistic re-exploration of marine biodiversity, from viruses to mammals, from genomes to holobionts, across multiple spatial and temporal scales stretching from pre-industrial to today. A focus is to understand pan-European biodiversity land-to-sea gradients and ecosystem services, including marine exposomes, notably with an  expedition (TREC, 2023/24) that will deploy mobile labs, research vessels including the Tara schooner, and innovative citizen science tools, across 21 coastal countries and 35 marine labs from the Mediterranean to Arctic seas. New data will be harmonized with existing data into an open-access data hub, leveraging international infrastructures, and generating transformative, cross-technologies/cross-scales standard marine biodiversity knowledge at the socio-ecosystem level. Knowledge will inform and constrain (i) new theories and models of marine biodiversity ecological and evolutionary dynamics and drivers, at both taxonomic and functional scales, (ii) a portfolio of novel holistic indicators of marine ecosystem health, (iii) innovative methods and protocols for economic and legal valuations of marine biodiversity and services integrating the dynamical and functional complexity of marine life. BIOcean5D will create a unique opportunity to bridge molecular/subcellular biology to organismal biology, theoretical ecology and econometrics, and marine complex systems to social sciences, toward the sustainable preservation of our oceans and seas.",
+  "keywords": [
+    "Ecosystem services",
+    "Biodiversity data integration",
+    "Marine exposome",
+    "Marine biodiversity valuing",
+    " virology",
+    "ecosystems",
+    "mammalogy",
+    "genomes",
+    "exposomes"
+  ],
+  "email": "biocean5D@embl.org",
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "PR",
+      "name": " LinkedIn",
+      "url": "https://www.linkedin.com/company/biocean5d/"
+    },
+    {
+      "@type": "ContactPoint",
+      "contactType": "PR",
+      "name": "X (Formerly Twitter)",
+      "url": "https://x.com/biocean5"
+    }
+  ],
+  "founding": {
+    "@id": "#Todo: to be filled"
+  },
+  "funder": {
+    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld"
+  },
+  "foundingDate": "2022-12-01",
+  "dissolutionDate": "2026-11-30",
+  "subjectOf": {
+    "@type": "DataDownload",
+    "name": "Official BIOcean5D metadata from the EU CORDIS portal",
+    "contentUrl": "https://cordis.europa.eu/project/id/101059915?format=xml",
+    "encodingFormat": "text/xml"
+  }
+}
