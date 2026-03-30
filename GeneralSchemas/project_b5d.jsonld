@@ -31,6 +31,12 @@
   "contactPoint": [
     {
       "@type": "ContactPoint",
+      "@id": "https://orcid.org/0000-0002-0007-0653",
+      "contactType": "Project Coordinator",
+      "name": "Amandine Nunes-Jorge"
+    },
+    {
+      "@type": "ContactPoint",
       "contactType": "Social Media",
       "name": " LinkedIn",
       "url": "https://www.linkedin.com/company/biocean5d/"
