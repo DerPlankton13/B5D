@@ -32,9 +32,17 @@
       "value": "10039266"
     }
   ],
-  "funder": {
-    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld"
-  },
+  "funder": [
+    {
+      "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_eu.jsonld"
+    },
+    {
+      "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_seri.jsonld"
+    },
+    {
+      "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_ukri.jsonld"
+    }
+  ],
   "amount": {
     "currency": "EUR",
     "value": "15449902.50 "
