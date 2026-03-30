@@ -8,7 +8,6 @@
       "@type": "PropertyValue",
       "name": "European Commission Horizon Grant Number",
       "disambiguatingDescription": "Cordis does not clearly distinguish between the project PID and the grant number.",
-      "propertyID": "ICA:id",
       "value": "101059915"
     },
     {
