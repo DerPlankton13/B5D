@@ -51,9 +51,17 @@
   "funding": {
     "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/grant_b5d.jsonld"
   },
-  "funder": {
-    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld"
-  },
+  "funder": [
+    {
+      "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_eu.jsonld"
+    },
+    {
+      "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_seri.jsonld"
+    },
+    {
+      "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_ukri.jsonld"
+    }
+  ],
   "foundingDate": "2022-12-01",
   "dissolutionDate": "2027-05-31",
   "subjectOf": {
