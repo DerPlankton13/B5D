@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_seri.jsonld",
+  "@type": "Organization",
+  "name": "State Secretariat for Education, Research and Innovation SERI",
+  "alternateName": "SERI",
+  "url": "https://www.sbfi.admin.ch/en",
+  "description": "The State Secretariat for Education, Research and Innovation SERI within the Federal Department of Economic Affairs, Education and Research EAER is the federal government's specialised agency for national and international matters concerning education, research and innovation policy."
+}
