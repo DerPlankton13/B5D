@@ -7,14 +7,14 @@
     {
       "@type": "PropertyValue",
       "name": "European Commission Horizon Grant Number",
-      "disambiguatingDescription": "Cordis does not clearly distinguish between the project PID and the grant number.",
+      "disambiguatingDescription": "The grant has three funding agencies, this number describes the contract number for the EU Horizon contribution.",
       "value": "101059915"
     },
     {
       "@type": "PropertyValue",
       "name": "The Digital Object Identifier System is for identifying content objects in the digital environment.",
       "alternateName": "DOI",
-      "disambiguatingDescription": "Cordis does not clearly distinguish between the project PID and the grant number.",
+      "disambiguatingDescription": "Cordis does not clearly distinguish between project and funding and uses the same DOI for both. This DOI corresponds to the EU Horizon contribution.",
       "propertyID": "https://registry.identifiers.org/registry/doi",
       "url": "https://doi.org/10.3030/101059915",
       "value": "10.3030/101059915"
