@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "@vocab": "https://schema.org/"
+  },
+  "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/organization_ukri.jsonld",
+  "@type": "Organization",
+  "name": "UK Research and Innovation",
+  "alternateName": "UKRI",
+  "url": "https://www.ukri.org/",
+  "description": "https://www.ukri.org/who-we-are/about-uk-research-and-innovation/"
+}
