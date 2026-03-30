@@ -2,7 +2,7 @@
   "@context": {
     "@vocab": "https://schema.org/"
   },
-  "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/b5d_project.jsonld",
+  "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/project_b5d.jsonld",
   "@type": "ResearchProject",
   "name": "Marine Biodiversity Assessment and Prediction Across Spatial, Temporal and Human Scales",
   "alternateName": "BIOcean5D",
@@ -49,7 +49,7 @@
     }
   ],
   "funding": {
-    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/b5d_grant.jsonld"
+    "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/grant_b5d.jsonld"
   },
   "funder": {
     "@id": "https://github.com/DerPlankton13/B5D/blob/main/GeneralSchemas/european_union.jsonld"
