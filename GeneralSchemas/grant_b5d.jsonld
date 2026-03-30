@@ -18,6 +18,18 @@
       "propertyID": "https://registry.identifiers.org/registry/doi",
       "url": "https://doi.org/10.3030/101059915",
       "value": "10.3030/101059915"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "Swiss State Secretariat for Education, Research and Innovation (SERI) contract number",
+      "disambiguatingDescription": "The grant has three funding agencies, this number describes the contract number for the SERI contribution.",
+      "value": "22.00255"
+    },
+    {
+      "@type": "PropertyValue",
+      "name": "UKRI Grant Reference Number",
+      "disambiguatingDescription": "The grant has three funding agencies, this number describes the UKRI Grant Reference Number of the UK government Horizon Europe Guarantee.",
+      "value": "10039266"
     }
   ],
   "funder": {
