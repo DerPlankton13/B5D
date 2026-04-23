@@ -1,1 +1,5 @@
 /.idea/
+*.xlsx
+*.gexf
+*.jsonld
+*.json
